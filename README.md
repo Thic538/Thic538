@@ -11,7 +11,7 @@
 
 🔎 Também sou curioso sobre [TECNOLOGIA & MUSICA]
 
-✒️ Eu gosto de passar meu tempo livre [Tocando Musicas e Criando Script.];
+✒️ Eu gosto de passar meu tempo livre [Tocando Musicas e Criando Script]
 
 📚 Lendo: [Presepe Outside The Cage]
 
