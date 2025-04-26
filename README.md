@@ -44,8 +44,8 @@
 <img
 src="https://ionic.io/blog/wp-content/uploads/2025/02/IonicBlogThumbnail.png"
 alt= "Ionic"
-width="30"
-style="border-radius: 10px; box-shadow: 0 4px 8px;" />
+width="69"
+style="border-radius: 100px; box-shadow: 8 10px 32px;" />
 
 <!--img 
 src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
@@ -54,12 +54,24 @@ width="50"
 style="border-radius: 50px; box-shadow: 10 10px 8px;" />
 
 <!-- [Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
+ <br>
 
+   ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
+</div>
+<br>
+
+<div align="center">
+<h3>cade o meu café ;)</h3>
+    
+<a href="https://ko-fi.com/betafontes" target="_blank">
+<img align="center" height="80" width="80" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczFiazVtazB0MW5hdTdxYXMwbDhsbmxuZDczY2tkcGNzanI4eTVwYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1JVwZwVzoyK9dvrfr/giphy.webp"  target="_blank">
+</a>
+</div>
 
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thic538}/count.svg" /></p> 
 <br></div>
 
