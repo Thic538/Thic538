@@ -39,8 +39,10 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-<img tite="Ionic"
-src="https://i.pinimg.com/736x/c6/67/ea/c667ea8efad5a59c560b40e76d590104.jpg"
+![Boostrap](https://ionic.io/ionicons/v4/assets/img/meta/ionicons-og-image.png)
+<img src="https://ionic.io/ionicons/v4/assets/img/meta/ionicons-og-image.png" width="150px" height="75px">
+<!--img
+src="https://ionic.io/ionicons/v4/assets/img/meta/ionicons-og-image.png"
 alt= "Ionic"
 width="30"
 style="border-radius: 10px; box-shadow: 0 4px 8px;" />
