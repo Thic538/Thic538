@@ -46,8 +46,8 @@ style="border-radius: 10px; box-shadow: 0 4px 8px;" />
 <img 
 src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
 alt="Bootstrap"
-width="30"
-style="border-radius: 10px; box-shadow: 0 4px 8px;" />
+width="50"
+style="border-radius: 10px; box-shadow: 0 10px 8px;" />
 
 <!-- [Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 
