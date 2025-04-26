@@ -43,7 +43,8 @@ src="https://i.pinimg.com/736x/c6/67/ea/c667ea8efad5a59c560b40e76d590104.jpg"
 alt= "Ionic"
 width="30"
 style="border-radius: 10px; box-shadow: 0 4px 8px;" />
-<img 
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+<!--img 
 src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
 alt="Bootstrap"
 width="50"
