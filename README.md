@@ -38,7 +38,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Ionic]([https://www.google.com/imgres?q=logo%20do%20Ionic&imgurl=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fionic_original_logo_icon_146462.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fionic-original-logo%2F146462&docid=-w26Lbs0bxuUDM&tbnid=_Xs11iJoo7BIdM&vet=12ahUKEwjq1rvet_SMAxVGrZUCHdOrJNIQM3oECFUQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjq1rvet_SMAxVGrZUCHdOrJNIQM3oECFUQAA](https://i.pinimg.com/736x/c6/67/ea/c667ea8efad5a59c560b40e76d590104.jpg))
+![Ionic]([[https://www.google.com/imgres?q=logo%20do%20Ionic&imgurl=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fionic_original_logo_icon_146462.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Fpt%2Ficone%2Fionic-original-logo%2F146462&docid=-w26Lbs0bxuUDM&tbnid=_Xs11iJoo7BIdM&vet=12ahUKEwjq1rvet_SMAxVGrZUCHdOrJNIQM3oECFUQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjq1rvet_SMAxVGrZUCHdOrJNIQM3oECFUQAA](https://i.pinimg.com/736x/c6/67/ea/c667ea8efad5a59c560b40e76d590104.jpg)](https://i.pinimg.com/736x/c6/67/ea/c667ea8efad5a59c560b40e76d590104.jpg))
 <!-- [Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 
 
