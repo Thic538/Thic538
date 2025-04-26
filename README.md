@@ -41,7 +41,7 @@
 <img 
 src="https://i.pinimg.com/736x/c6/67/ea/c667ea8efad5a59c560b40e76d590104.jpg"
 alt= "Ionic"
-width="35"
+width="30"
 style="border-radius: 10px; box-shadow: 0 4px 8px;" />
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <!-- [Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
