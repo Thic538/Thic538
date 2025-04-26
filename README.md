@@ -39,13 +39,11 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-
-
 <img
 src="https://ionic.io/blog/wp-content/uploads/2025/02/IonicBlogThumbnail.png"
 alt= "Ionic"
-width="69"
-style="border-radius: 100px; box-shadow: 8 10px 32px;" />
+width="59"
+style="border-radius: 10px; box-shadow: 8 10px 32px;" />
 
 <!--img 
 src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"
@@ -72,7 +70,7 @@ style="border-radius: 50px; box-shadow: 10 10px 8px;" />
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thic538}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BThic538%7D/count.svg""rgb(255, 0, 0)" /></p> 
 <br></div>
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
